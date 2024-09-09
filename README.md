@@ -97,4 +97,4 @@ while True:
 
 ## Contribuições
 
-Sinta-se à vontade para contribuir com melhorias, correções de bugs ou sugestões. Faça um fork deste repositório e envie um pull request.
+Sinta-se à vontade para contribuir com melhorias, correções de bugs ou sugestões.
